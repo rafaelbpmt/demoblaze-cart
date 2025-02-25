@@ -3,7 +3,7 @@ Processo de Teste E2E com a aplicação demoblaze.com, onde testei e documentei 
 
 ## Sumário
   
-- [Plano de Testes](#planotestes) 
+- [Plano de Testes](#plano-de-testes) 
 
 
 ## Plano de Testes
