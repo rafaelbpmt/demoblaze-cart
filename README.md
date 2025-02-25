@@ -1,14 +1,20 @@
 
+# Demoblaze - Cart Feature
+
+Processo de Teste E2E com a aplicação (https://www.demoblaze.com), onde testei e documentei a feature de carrinho do site.
+
 ## Sumário
   
-- [Plano de Testes](#plano-de-testes) 
-- [Cenários de Testes](#cenarios-de-testes) 
+- 📝 [Plano de Testes](#plano-de-testes) 
+- 🖥️ [Cenários de Testes](#cenários-de-testes) 
 
 
 ## Plano de Testes
  
- **Introdução:** 
-Os seguintes testes foram realizados no site demoblaze.com com finalidade de estudos sobre o planejamento e execução de testes manuais e automatizado, validando a feature de carrinho de compras do site Demoblaze, garantindo sua usabilidade com qualidade.
+ 
+Documento no Google Docs: https://bit.ly/438Gf0x
+
+**Introdução:** Os seguintes testes foram realizados no site demoblaze.com com finalidade de estudos sobre o planejamento e execução de testes manuais e automatizado, validando a feature de carrinho de compras do site Demoblaze, garantindo sua usabilidade com qualidade.
 
 **Informações Gerais:**
 
