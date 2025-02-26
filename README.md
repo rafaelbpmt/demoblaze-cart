@@ -1,5 +1,5 @@
 
-# Demoblaze - Cart Feature
+# Demoblaze: Cart feature test 🛒
 
 Processo de Teste E2E com a aplicação (https://www.demoblaze.com), onde testei e documentei a feature de carrinho do site.
 
