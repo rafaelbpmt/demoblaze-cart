@@ -9,7 +9,7 @@ Processo de Teste E2E com a aplicação (https://www.demoblaze.com), onde testei
 - 🖥️ [Cenários de Testes](#cenários-de-testes) 
 
 
-## Plano de Testes
+## 📝 Plano de Testes
  
  
 Documento no Google Docs: https://bit.ly/438Gf0x
@@ -67,4 +67,4 @@ O usuário deve estar em um computador com conexão web na página inicial da de
 
 O carrinho deve estar vazio antes de iniciar cada teste.
 
-## Cenários de Testes
+## 🖥️ Cenários de Testes
