@@ -112,5 +112,5 @@ O carrinho deve estar vazio antes de iniciar cada teste.
 | ----------------- | ---------------------------------------------------------------- |
 | 1. | A fazer
 
-**Você pode conferir todos os cenários de testes no Google Sheets:** bit.ly/43jLkDn
+**Você pode conferir todos os cenários de testes no Google Sheets: https://bit.ly/3XoEdpk** 
 
