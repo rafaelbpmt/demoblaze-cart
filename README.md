@@ -68,3 +68,49 @@ O usuário deve estar em um computador com conexão web na página inicial da de
 O carrinho deve estar vazio antes de iniciar cada teste.
 
 ## 🖥️ Cenários de Testes
+
+## Informações Gerais
+
+|  Título             |    Adicionando produto ao carrinho                                             |
+| ----------------- | ---------------------------------------------------------------- |
+| ID       | CT-001 |
+| Autor       | Rafael Bizarria
+| Data       | 24/02/2025
+| Versão       | 1.0
+| Ambiente      | Produção
+| Descrição      | Teste para verificar se a adição de produtos no carrinho está funcionando corretamente
+| Prioridade      | Alta
+| Tipo      | Funcional
+
+
+|  Pré-requisitos| | 
+| ----------------- | ---------------------------------------------------------------- |
+| 1. | O usuário deve estar na página inicial do site da Demoblaze
+| 2. | O usuário não precisa estar logado
+| 3. | O carrinho deve estar vazio
+
+|  Passo a passo | | 
+| ----------------- | ---------------------------------------------------------------- |
+| 1. | Acessar o site: demoblaze.com
+| 2. | Clicar no nome ou foto de um produto
+| 3. | Clicar no botão “Add to cart”
+| 4. | Verificar se foi exibido a mensagem na tela “Product added”
+| 5. | Clicar na aba “Cart” localizado no meio do menu superior
+| 6. | Verificar se o produto foi adicionado corretamente
+
+|  Resultado esperado | | 
+| ----------------- | ---------------------------------------------------------------- |
+| 1. | O produto se encontrará no carrinho
+
+|  Ambiente de Testes | | 
+| ----------------- | ---------------------------------------------------------------- |
+| 1. | SO: macOS Sonoma 14.2.1
+| 2. | Browser: Google Chrome 133.0.6943.127
+| 3. | Plataforma: Web
+
+|  Status | | 
+| ----------------- | ---------------------------------------------------------------- |
+| 1. | A fazer
+
+**Você pode conferir todos os cenários de testes no Google Sheets:** bit.ly/43jLkDn
+
